@@ -1,0 +1,180 @@
+
+.plashki {
+  display: flex;
+  grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
+  grid-gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.header {
+    font-family: fantasy;
+    font-size: 25px;
+    color: #416788;
+    margin: 1% 8%;
+    width: 100%;
+    position: absolute;
+}
+.lepeshka {
+  display: flex;
+  height: 668px;
+  width: 420px;
+  border-radius: 1%;
+}
+.fig {
+  display: block;
+  margin: 1% 0%;
+  position: absolute;
+  border-radius: 13px;
+ }
+ .zad {
+  display: flex;
+  margin: 4% 8%;
+  border-radius: 13px;
+  position: absolute;
+  height: 185px;
+  width: 185px;
+ }
+ .h2 {
+  font-family: fantasy;
+  font-size: 15px;
+  color: #416788;
+  margin: 18% 11%;
+  width: 100%;
+  position: absolute;
+ }
+ .bt1 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 4% 5%;
+  position: absolute;
+  font-size: large;
+ }
+ .esh {
+    display: flex;
+    margin: 21% 4%;
+    border-radius: 13px;
+    position: absolute;
+    height: 340px;
+    width: 301px;
+ }
+.loonzz {
+  display: flex;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  margin: 18% 18%;
+}
+.bt2 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 4% 40%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt3 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 4% 75%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt4 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 32% 5%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt5 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 32% 40%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt6 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 32% 75%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt7 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 60% 5%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt8 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 60% 40%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt9 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 60% 75%;
+  position: absolute;
+  font-size: large;
+ }
+ .bt0 {
+  display: block;
+  background-color: #416788;
+  width: 60px;
+  height: 60px;
+  color: #D2F2ED;
+  font-family: fantasy;
+  align-items: center;
+  margin: 88% 40%;
+  position: absolute;
+  font-size: large;
+ }
+
