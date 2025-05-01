@@ -177,4 +177,67 @@
   position: absolute;
   font-size: large;
  }
-
+ .tt {
+  display: flex;
+  height: 234px;
+  width: 420px;
+  border-radius: 1%;
+  border-color: #416788;
+  margin: 1% 35%;
+}
+.xx {
+  display: flex;
+  height: 768px;
+  width: 545px;
+  border-radius: 1%;
+  border-color: #416788;
+  margin: 5% 35%;
+}
+.hh {
+  display: block;
+  margin: 1% 10%;
+  position: absolute;
+  border-radius: 13px;
+  height: 161px;
+  width: 252px;
+ }
+ .sm {
+  display: block;
+  margin: 15% 10%;
+  position: absolute;
+  border-radius: 13px;
+  height: 161px;
+  width: 252px;
+ }
+ .sl {
+  display: block;
+  margin: 29% 10%;
+  position: absolute;
+  border-radius: 13px;
+  height: 151px;
+  width: 252px;
+ }
+ .pp {
+  font-family: fantasy;
+  font-size: 25px;
+  color: #416788;
+  margin: 11.5% 16%;
+  width: 100%;
+  position: absolute;
+}
+.ee {
+  font-family: fantasy;
+  font-size: 25px;
+  color: #416788;
+  margin: 25.5% 15%;
+  width: 100%;
+  position: absolute;
+}
+.ii {
+  font-family: fantasy;
+  font-size: 25px;
+  color: #416788;
+  margin: 39.5% 6.5%;
+  width: 100%;
+  position: absolute;
+}
