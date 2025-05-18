@@ -241,3 +241,47 @@
   width: 100%;
   position: absolute;
 }
+.pismo {
+  font-family: fantasy;
+  font-size: 15px;
+  text-align: center;
+  min-height: 100vh;
+  color: #416788;
+  width: 70vh;
+  margin: 400px 500px;
+  display: block;
+  font-style: italic;
+}
+.day {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+.im1 {
+  display: block;
+  margin: 1% 41%;
+  position: absolute;
+  border-radius: 13px;
+  height: 150px;
+  width: auto;
+}
+.im2 {
+  display: block;
+  margin: 13% 41%;
+  position: absolute;
+  border-radius: 13px;
+  height: 150px;
+  width: auto;
+}
+.nadp {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cif1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 1% 10%;
+  display: block;
+  position: absolute;
+}
+.cif2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 1% 5%;
+}
